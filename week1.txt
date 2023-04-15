@@ -1,3 +1,7 @@
 đây là file week1.txt
 Thuộc branch: week1
+<<<<<<< ours
 kiem tra back end 2
+=======
+kiem tra giua ky
+>>>>>>> theirs
